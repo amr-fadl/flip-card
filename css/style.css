@@ -709,7 +709,7 @@ img {
 }
 
 .all-card .singl_card.style_seven .back-card {
-  z-index: 3;
+  z-index: 1;
   border-radius: 7px;
   padding-bottom: 15px;
   -webkit-border-radius: 7px;
