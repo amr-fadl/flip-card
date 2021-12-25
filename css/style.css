@@ -693,7 +693,7 @@ img {
 }
 
 .singl_card.style_seven .front-card {
-  z-index: 3;
+  z-index: 4;
   position: absolute;
   left: 50%;
   top: 50%;
@@ -709,7 +709,7 @@ img {
 }
 
 .all-card .singl_card.style_seven .back-card {
-  z-index: 4;
+  z-index: 3;
   border-radius: 7px;
   padding-bottom: 15px;
   -webkit-border-radius: 7px;
@@ -725,6 +725,7 @@ img {
 
 .all-card .singl_card.style_seven:hover .back-card {
   padding-bottom: 0px;
+  z-index: 4;
 }
 
 .singl_card.style_seven .back-card img {
